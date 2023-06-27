@@ -25,6 +25,7 @@ function isBalancedBracket(input)
 `M = E - N + 2P`
 
 M = 12 - 10 + 2
+
 M = 4; maka ada 4 kemungkinan jalur eksekusi program.
 
 ## Time Complexity
